@@ -40,4 +40,4 @@ workflows:
       - build/**/outputs/**/*.apk
       - build/**/outputs/**/*.aab
       - build/*/outputs/**/mapping.txt
-      - flutter_drice.log
+      - flutter_drive.log
